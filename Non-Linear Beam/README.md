@@ -4,7 +4,7 @@ Takes Elastic Modulus, Dimensions of the beam, No of elements or nodes, degree o
 
 ## Functions 
 ### gausspoints()
-Returns the weights and points for numerical integration using the Gauss quadrature algorithm. Takes the order of integration to be performed ( can go up to order 4 ( i.e. 4x4 points ) as input.
+Returns the weights and points for numerical integration using the Gauss quadrature algorithm. Takes the order of integration to be performed ( can go up to order 4 ( i.e. 4x4 points )) as input.
 
 ### beamelement()
 Returns the element level stiffness and force matrix for a beam element, given the elastic modulus, second moment of inertia, and load intensity as input.
