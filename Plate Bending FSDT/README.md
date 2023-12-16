@@ -1,4 +1,4 @@
-# Bending Analysis of Fiber-Reinforced Composite
+# Bending Analysis of Fiber-Reinforced Composite plate using First-Order Shear Deformation Theory
 ### Main file - platefsdtfem.m
 Takes plate dimensions, material properties, loading conditions, and mesh parameters ( number of nodes, degree of freedom per node ) to give equilibirium deformation of the plate under loading
 
