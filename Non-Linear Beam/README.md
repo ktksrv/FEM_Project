@@ -11,7 +11,7 @@ Input - the order of integration to be performed ( can go up to order 4 ( i.e. 4
 ### beamelement()
 Returns the element level stiffness and force matrix for a beam element, given the elastic modulus, second moment of inertia, and load intensity as input.
 
-beamassembly() 
+### beamassembly() 
 Constructs the global stiffness matrix for the loaded beam using the element-level stiffness matrix 
 
 
